@@ -1,2 +1,2 @@
-# Deserialise-Json-To-C--Objects
+# Deserialise Json Data to C sharp objects...
 A very small console app that reads data from a text in json format and deserialise it to C# objects..
