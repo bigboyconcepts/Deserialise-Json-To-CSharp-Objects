@@ -1,0 +1,9 @@
+/Users/zeshanhossein/Downloads/Deserialise/Deserialise/bin/Debug/Deserialise.exe
+/Users/zeshanhossein/Downloads/Deserialise/Deserialise/bin/Debug/Deserialise.pdb
+/Users/zeshanhossein/Downloads/Deserialise/Deserialise/bin/Debug/Newtonsoft.Json.dll
+/Users/zeshanhossein/Downloads/Deserialise/Deserialise/bin/Debug/Newtonsoft.Json.xml
+/Users/zeshanhossein/Downloads/Deserialise/Deserialise/obj/x86/Debug/Deserialise.csprojAssemblyReference.cache
+/Users/zeshanhossein/Downloads/Deserialise/Deserialise/obj/x86/Debug/Deserialise.csproj.CoreCompileInputs.cache
+/Users/zeshanhossein/Downloads/Deserialise/Deserialise/obj/x86/Debug/Deserialise.csproj.CopyComplete
+/Users/zeshanhossein/Downloads/Deserialise/Deserialise/obj/x86/Debug/Deserialise.exe
+/Users/zeshanhossein/Downloads/Deserialise/Deserialise/obj/x86/Debug/Deserialise.pdb

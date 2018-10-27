@@ -1,0 +1,20 @@
+{ "person" : {
+	"name" : "Barak Obama",
+	"age" : 24,
+	"isAlive" : true,
+	"education" : "University",
+	"address" : {
+		"street" : "2525 High Street White House",
+		"city" : "New York",
+		"postcode" : "N87 78P" 
+	},
+	"contactNumber" : [
+		{ "mobile"  : "0900786013",
+		  "telephone" : "0204259304"
+		}
+	]
+   }
+}
+
+
+    
